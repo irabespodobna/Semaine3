@@ -6,7 +6,8 @@
 `git clone https://github.com/EliSparow/Semaine3`
 
 2. Une fois le repo cloné, pensez à installer les gems :
-`$ cd gem_files/`
+Depuis la racine :
+`$ cd Mardi/gem_files/`
 `$ bundle install`
 
 
@@ -14,7 +15,9 @@
 ## :video_game: Le Jeu :video_game:
 
 1. **Pour lancer le jeu :** 
-`ruby mon_jeu/run.rb`
+
+Depuis la racine :
+`ruby Mardi/mon_jeu/run.rb`
 
 2. **Les règles :**
 
