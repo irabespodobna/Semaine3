@@ -7,7 +7,6 @@
 
 2. Une fois le repo cloné, pensez à installer les gems :
 `$ cd gem_files/`
-
 `$ bundle install`
 
 
