@@ -3,7 +3,7 @@
 ## :warning: Avant de commencer :warning:
 
 1. Afin de cloner le repo, il faut commencer à la racine :
-`git clone https://github.com/EliSparow/Semaine3`
+`$ git clone https://github.com/EliSparow/Semaine3`
 
 2. Une fois le repo cloné, pensez à installer les gems :
 Depuis la racine :
@@ -17,7 +17,7 @@ Depuis la racine :
 1. **Pour lancer le jeu :** 
 
 Depuis la racine :
-`ruby Mardi/mon_jeu/run.rb`
+`$ ruby Mardi/mon_jeu/run.rb`
 
 2. **Les règles :**
 
