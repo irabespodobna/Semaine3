@@ -4,7 +4,7 @@ require_relative 'player.rb'
 require_relative 'game.rb'
 
 def restart_game
-  puts 'Would you like to play again ? (y/n)'
+  puts 'Would you like to play again ? ' "( #{'y'.green.bold} / #{'n'.red.bold} )"
   print '> '
   if gets.chomp.to_s.downcase == 'y' 
     system('clear')

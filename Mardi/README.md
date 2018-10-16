@@ -1,4 +1,4 @@
-# The Super TicTacToe :video_game: - Mardi 16 Octobre
+# The Super TicTacToe :bangbang: - Mardi 16 Octobre
 
 ## :warning: Avant de commencer :warning:
 
@@ -21,9 +21,6 @@
 >Deux joueurs s'affrontent. 
 >Ils doivent remplir chacun à leur tour une case de la grille avec le symbole qui leur est attribué : O ou X.
 >Le gagnant est celui qui arrive à aligner trois symboles identiques, *horizontalement*, *verticalement* ou en *diagonale*.
-
-
-
 
 
 *Done by @Max* :tiger:

@@ -29,11 +29,11 @@ class Game
   			turns(turn)
 			else
         if @board.won? == 1 
-          puts "#{@players[0].name.bold.underlined} is the "
-          puts "Winner !".yellow.bold
+          puts "#{@players[0].name.bold.underlined} is the #{"Winner !".yellow.bold}"
+          puts 
         else 
-          puts "#{@players[1].name.bold.underlined} is the "
-          puts "Winner !".yellow.bold
+          puts "#{@players[1].name.bold.underlined} is the #{"Winner !".yellow.bold}"
+          puts 
         end
       	break
       end
