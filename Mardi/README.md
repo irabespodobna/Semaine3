@@ -6,10 +6,9 @@
 `git clone https://github.com/EliSparow/Semaine3`
 
 2. Une fois le repo cloné, pensez à installer les gems :
-```
-$ cd gem_files/
+`$ cd gem_files/
 $ bundle install
-```
+`
 
 
 ## :video_game: Le Jeu :video_game:
